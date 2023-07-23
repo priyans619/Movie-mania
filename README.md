@@ -1,6 +1,6 @@
 ## Movie-mania
 ## Contributing
-1.Fork it (https://github.com/priyans619/Songify-Music-App/fork)
+1.Fork it (https://github.com/priyans619/Movie-mania/fork)
 
 2.Create new branch : git checkout -b new_feature
 
