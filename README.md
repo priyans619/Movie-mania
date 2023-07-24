@@ -1,4 +1,9 @@
 ### Movie-mania
+
+## Take a look!!
+![Movie-mania](https://github.com/priyans619/Movie-mania/assets/46921513/f724adb5-fe04-4b70-82ca-514b69dc23cd)
+
+
 ## Contributing
 1.Fork it (https://github.com/priyans619/Movie-mania/fork)
 
