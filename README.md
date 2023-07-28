@@ -4,7 +4,7 @@
 ![Movie-mania](https://github.com/priyans619/Movie-mania/assets/46921513/f724adb5-fe04-4b70-82ca-514b69dc23cd)
 
 ## Technologies
-1.**React.js** (**Next.js**)
+1.**React.js** (Frontend UI)
 
 2.**API**'s:
 
