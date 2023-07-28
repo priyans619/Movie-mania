@@ -3,6 +3,14 @@
 ## Take a look!!
 ![Movie-mania](https://github.com/priyans619/Movie-mania/assets/46921513/f724adb5-fe04-4b70-82ca-514b69dc23cd)
 
+## Technologies
+1.**React.js** (**Next.js**)
+
+2.**API**'s:
+
+   a) Use ***TBDB API*** to gather music data.
+   
+
 
 ## Contributing
 1.Fork it (https://github.com/priyans619/Movie-mania/fork)
