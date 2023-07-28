@@ -16,7 +16,7 @@
 
    b) ***Redux Toolkit*** for organised API calls
    
-
+## Functionalities
 
 ## Contributing
 1.Fork it (https://github.com/priyans619/Movie-mania/fork)
