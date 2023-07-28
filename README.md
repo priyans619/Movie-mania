@@ -8,7 +8,7 @@
 
 2.**API**'s:
 
-   a) Use ***TBDB API*** (The Movie Database) to gather music data.
+   a) Use ***TBDB API*** (The Movie Database) to fetch movie details.
 
 3.**Libraries**:
     
