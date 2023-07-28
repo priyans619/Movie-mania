@@ -9,6 +9,12 @@
 2.**API**'s:
 
    a) Use ***TBDB API*** (The Movie Database) to gather music data.
+
+3.**Libraries**:
+    
+   a) **UI kit**- **Tailwind CSS** (You can choose any Material UI or plain CSS)
+
+   b) ***Redux Toolkit*** for organised API calls
    
 
 
