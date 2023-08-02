@@ -18,6 +18,8 @@
    
 ## Functionalities
 
+1. Search - You can find millions of movies and TV shows.
+
 ## Contributing
 1.Fork it (https://github.com/priyans619/Movie-mania/fork)
 
