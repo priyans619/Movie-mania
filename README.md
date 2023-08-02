@@ -8,7 +8,7 @@
 
 2.**API**'s:
 
-   a) Use ***TBDB API*** (The Movie Database) to fetch movie details.
+   a) Use ***TBDB API*** (The Movie Database) is application inetrface to fetch movie details.
 
 3.**Libraries**:
     
