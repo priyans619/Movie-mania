@@ -22,6 +22,8 @@
 
 2. **Movie Details** - Find every cast and synopsis related to the movie.
 
+3. Exception Design - User Interface is the first priority of any web app a user sees, find some best UI in this project
+
 ## Contributing
 1.Fork it (https://github.com/priyans619/Movie-mania/fork)
 
