@@ -18,7 +18,7 @@
    
 ## Functionalities
 
-1. **Search** - You can find millions of movies and TV shows.
+1. **Homepage** - You can find millions of movies and TV shows.
 
 2. Details - Find every cast related and synopsis of the movie
 
