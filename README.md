@@ -20,6 +20,8 @@
 
 1. **Search** - You can find millions of movies and TV shows.
 
+2. Details - Find every cast related and synopsis of the movie
+
 ## Contributing
 1.Fork it (https://github.com/priyans619/Movie-mania/fork)
 
