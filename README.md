@@ -1,6 +1,6 @@
 # Movie-mania
 
-## Take a look!!
+## Take a look!! https://movie-mania-d0i0kjaif-priyans619.vercel.app/
 ![Movie-mania](https://github.com/priyans619/Movie-mania/assets/46921513/f724adb5-fe04-4b70-82ca-514b69dc23cd)
 
 ## Technologies
