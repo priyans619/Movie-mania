@@ -12,7 +12,7 @@
 
 3.**Libraries**:
     
-   a) **UI kit**- **Tailwind CSS** (You can choose any Material UI or plain CSS)
+   a) **UI kit**- **SCSS** (You can choose any Material UI or tailwind)
 
    b) ***Redux Toolkit*** for organised API calls
    
